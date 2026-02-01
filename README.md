@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I’m Cathy a Product Designer, strategic thinker, and storyteller.
+
+
 <!--
 **cattix/cattix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
